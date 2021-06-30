@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "eleventy --serve"
+    "dev": "netlify dev"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Apache 2.0",
   "dependencies": {
     "@11ty/eleventy": "1.0.0-canary.38"
+  },
+  "devDependencies": {
+    "netlify-cli": "^4.0.3"
   }
 }
