@@ -1,0 +1,15 @@
+{
+  "name": "eleventy-serverless-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@11ty/eleventy": "1.0.0-canary.38"
+  }
+}
